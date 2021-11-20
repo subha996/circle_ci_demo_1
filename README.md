@@ -116,9 +116,13 @@ git push -u origin main
 ## Select project setting in CircleCI and below environment variable
 
 >DOCKERHUB_USER
+
 >DOCKER_HUB_PASSWORD_USER
+
 >HEROKU_API_KEY
+
 >HEROKU_APP_NAME
+
 >HEROKU_EMAIL_ADDRESS
 
 >DOCKER_IMAGE_NAME=<wafercircle3270303>
